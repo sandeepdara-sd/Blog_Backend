@@ -16,3 +16,5 @@ mongoose.connect("mongodb+srv://sandeepdara44:kmss1234@cluster0.ffdhqln.mongodb.
 .then(()=>console.log("DB Connected and listening on port 5000"))
 .catch((err)=>console.log(err))
 
+console.log("Hello world")
+
